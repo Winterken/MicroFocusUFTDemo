@@ -1,0 +1,7 @@
+﻿Browser("Advantage Shopping").Page("Advantage Shopping").Link("SpeakersCategoryTxt").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("SpeakersCategoryTxt")_;_script infofile_;_ZIP::ssf6.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("HP S9500 Bluetooth Wireless").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("HP S9500 Bluetooth Wireless")_;_script infofile_;_ZIP::ssf7.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("Quantity_plus").Click
+Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("save_to_cart").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("save to cart")_;_script infofile_;_ZIP::ssf8.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").Link("ShoppingCart").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("ShoppingCart")_;_script infofile_;_ZIP::ssf9.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("WebElement").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("WebElement")_;_script infofile_;_ZIP::ssf10.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME")_;_script infofile_;_ZIP::ssf11.xml_;_
